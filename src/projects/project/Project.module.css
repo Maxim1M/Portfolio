@@ -7,10 +7,13 @@
     text-align: center;
 }
 
-.icon {
+.img {
     height: 150px;
     width: 100%;
     background-color: darkgray;
+    /*background-image: url(""); можно добавить картинку*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,8 +31,12 @@
 
 .title {
     background-color: #868686;
+    width: 100%;
+    display: flex;
 }
 
 .description {
     background-color: #868686;
+    width: 100%;
+    display: flex;
 }

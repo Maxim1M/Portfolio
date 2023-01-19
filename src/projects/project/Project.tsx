@@ -11,10 +11,10 @@ export const Project:React.FC<PropsType> = (props) => {
     const {id, title, description, ...otherProps} = props
     return (
         <div className={s.project}>
-            <div className={s.icon}>
-                <div className={s.link}>Cмотреть</div>
+            <div className={s.img}>
+                <a className={s.link}>Cмотреть</a>
             </div>
-            <p className={s.title}>{title}</p>
+            <div className={s.title}>{title}</div>
             <span className={s.description}>
                 {description}
             </span>
