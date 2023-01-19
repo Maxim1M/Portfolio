@@ -12,7 +12,7 @@ export const Project:React.FC<PropsType> = (props) => {
     return (
         <div className={s.project}>
             <div className={s.img}>
-                <a className={s.link}>Cмотреть</a>
+                 <a className={s.link}>Cмотреть</a>
             </div>
             <div className={s.title}>{title}</div>
             <span className={s.description}>
