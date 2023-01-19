@@ -1,0 +1,13 @@
+.contact {
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 287px;
+}
+
+.di1 {
+    background-color: darkgray;
+    width: 65px;
+    height: 65px;
+}

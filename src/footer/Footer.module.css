@@ -1,0 +1,20 @@
+.footerBlock {
+    height: 30vh;
+    background-color: lightgreen;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.footer {
+    background-color: darkgray;
+}
+
+.title {
+    background-color: gainsboro;
+}
+
+.freelance {
+}

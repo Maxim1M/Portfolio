@@ -1,9 +1,9 @@
-.skillsBlock {
-    height: 70vh;
-    background-color: khaki;
+.projectsBlock {
+    height: 80vh;
+    background-color: #d890ff;
 }
 
-.skillsContainer {
+.projectsContainer {
     flex-direction: column;
     justify-content: flex-start;
 }
@@ -12,7 +12,7 @@
     background-color: gainsboro;
 }
 
-.skills {
+.projects {
     border: 1px solid;
     width: 100%;
     display: flex;

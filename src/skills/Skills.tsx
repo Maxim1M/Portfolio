@@ -6,9 +6,9 @@ import {Skill} from "./Skill/Skill";
 export const Skills = () => {
 
     const [skill, setSkill] = useState([
-        {id:1, title: 'JS', description: 'Описание способности 1'},
-        {id:2, title: 'CSS', description: 'Описание способности 2'},
-        {id:3, title: 'React', description: 'Описание способности 3'}
+        {id:1, title: 'JS', description: 'Подробное описание способности'},
+        {id:2, title: 'CSS', description: 'Подробное описание способности'},
+        {id:3, title: 'React', description: 'Подробное описание способности'}
     ])
 
     return (

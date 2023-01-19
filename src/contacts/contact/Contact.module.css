@@ -1,0 +1,8 @@
+.contact {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 15vh;
+    width: 30vh;
+}

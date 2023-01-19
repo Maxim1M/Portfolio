@@ -1,0 +1,16 @@
+.freelanceBlock {
+    height: 30vh;
+    background-color: lightyellow;
+}
+
+.freelanceContainer {
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.title {
+    background-color: gainsboro;
+}
+
+.freelance {
+}

@@ -1,0 +1,16 @@
+.contactBlock {
+    height: 50vh;
+    background-color: lightpink;
+}
+
+.contactContainer {
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.title {
+    background-color: gainsboro;
+}
+
+.freelance {
+}
